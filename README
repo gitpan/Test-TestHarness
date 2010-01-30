@@ -1,0 +1,1 @@
+Test::TestHarness was written to be an easy way to figure out if a test passes or fails. It\'s for when Test::Builder::Tester isn\'t flexible enough.
